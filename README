@@ -23,5 +23,6 @@ This project analyzes loan portfolio data to identify default patterns and under
 ## Dashboard
 The Power BI dashboard summarizes loan volume, default rate, loan grade, loan purpose, and home ownership.
 
+![Loan Portfolio & Default Risk Dashboard](\Loan Portfolio & Default Risk dashboard.png)
 ## Disclaimer
 This project is for educational and portfolio purposes. The observed relationships do not establish causation.
